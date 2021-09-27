@@ -6,9 +6,9 @@ public class Strings {
     public static void main(String[] args) {
         String A, B;
         Scanner sc = new Scanner(System.in);
-        System.out.println("First word :");
+        System.out.printf("First word :");
         A = sc.next();
-        System.out.println("Second word :");
+        System.out.printf("Second word :");
         B = sc.next();
 
         System.out.println(A.length() + B.length());
