@@ -21,3 +21,6 @@ public class Strings {
         System.out.println(" " + B.substring(0, 1).toUpperCase() + B.substring(1, B.length()));
     }
 }
+
+//Kendala : Soal menginginkan untuk mengubah inputan bertipe string menjadi huruf kapital pada setiap awalan kalimat saja, awalnya masih huruf kecil.
+//Solusi  : Mencari informasi di internet dan ebook tentang teknik mengubah huruf kapital pada setiap awal kalimat. Saya menemukan teknik substring() dan toUpperCase()
