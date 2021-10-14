@@ -8,6 +8,7 @@ public class Item {
     public Item(String name) {
         this();
         System.out.println(this.name);
+
     }
 }
 
