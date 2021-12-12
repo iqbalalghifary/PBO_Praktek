@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PBOPrak11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PBOPrak11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
