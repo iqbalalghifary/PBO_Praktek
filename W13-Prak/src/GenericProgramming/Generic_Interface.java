@@ -7,7 +7,7 @@ package GenericProgramming;
 
 /**
  *
- * @author Acer
+ * @author ikbal alghifary
  */
 public class Generic_Interface extends Manusia {
 

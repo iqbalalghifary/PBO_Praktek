@@ -7,7 +7,7 @@ package GenericProgramming;
 
 /**
  *
- * @author Acer
+ * @author ikbal alghifary
  */
 public class Class_Interface<T extends Comparable<T>> implements Sorting<T> {
     T[] vals;
