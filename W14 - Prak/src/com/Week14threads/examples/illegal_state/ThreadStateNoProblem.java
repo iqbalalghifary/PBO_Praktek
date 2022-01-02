@@ -11,7 +11,7 @@ public class ThreadStateNoProblem extends Thread{
 		try {
 			wait(1000);
 		} catch (InterruptedException ie) {
-						ie.printStackTrace();
+			ie.printStackTrace();
 		}
 	}
 
